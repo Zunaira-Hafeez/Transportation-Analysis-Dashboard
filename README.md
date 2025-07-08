@@ -4,7 +4,7 @@ This project includes a simple Excel dashboard created as part of a data mentors
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](Screenshot Dashboard Transportation analysis.png)
+![Dashboard Screenshot](Screenshot_Dashboard_Transportation_Analysis.png)
 
 ## 📂 Files Included
 - **Dataset.xlsx** – Raw data used for the dashboard  
